@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(ros_foxy_test_py)
+project(ros_foxy_sstn3_test_003)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
